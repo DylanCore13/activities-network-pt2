@@ -5,14 +5,14 @@
 
 
 
-<b>
+
 
 <h2>Observing ICMP Traffic</h2>
 
 - Welcome to 2nd part!!!
 
 
-<b/>
+
 
 
 
@@ -23,7 +23,12 @@ If using Mac, install Microsoft Remote Desktop
 
 
 
-Use Remote Desktop to connect to your Windows 10 Virtual Machine
+Use Remote Desktop to connect to your Windows 10 Virtual Machine, copy ip address and log in with username and password set up on virtual machine when you were createing it
+
+![image](https://github.com/user-attachments/assets/51b86540-027b-4bcf-8f4b-8cac82c74ebd)
+
+
+![image](https://github.com/user-attachments/assets/cd79c046-0012-4767-972f-1ed925537e36)
 
 
 
