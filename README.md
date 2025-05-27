@@ -54,6 +54,13 @@ Within Wireshark, filter for ICMP traffic only
 
 
 Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
+
+
+![image](https://github.com/user-attachments/assets/5dff8edb-9da7-4458-859e-b21405a19711)
+
+
+
+
 - Observe ping requests and replies within WireShark
 
 
