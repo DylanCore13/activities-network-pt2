@@ -49,6 +49,9 @@ Open Wireshark and start packet capture
 
 Within Wireshark, filter for ICMP traffic only
 
+![image](https://github.com/user-attachments/assets/06f24044-34f9-4d9a-9486-4046e6bac987)
+
+
 
 Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping it from within the Windows 10 VM
 - Observe ping requests and replies within WireShark
