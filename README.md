@@ -69,3 +69,7 @@ Retrieve the private IP address of the Ubuntu VM (linux-vm) and attempt to ping 
   
 From The Windows 10 VM, open command line or PowerShell and attempt to ping a public website (such as www.google.com) and observe the traffic in WireShark
 
+
+![image](https://github.com/user-attachments/assets/cd2d770e-f651-4eb1-8486-2e9d18cb0e5c)
+
+
