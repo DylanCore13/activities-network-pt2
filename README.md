@@ -43,6 +43,9 @@ Once you're logged in within your Windows 10 Virtual Machine, Install https://ww
 
 Open Wireshark and start packet capture
 
+![image](https://github.com/user-attachments/assets/b8bffe7b-241f-45f3-a514-75611073f98c)
+
+
 
 Within Wireshark, filter for ICMP traffic only
 
