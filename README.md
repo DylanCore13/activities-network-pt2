@@ -32,7 +32,12 @@ Use Remote Desktop to connect to your Windows 10 Virtual Machine, copy ip addres
 
 
 
-Within your Windows 10 Virtual Machine, Install Wireshark
+Once you're logged in within your Windows 10 Virtual Machine, Install https://www.wireshark.org
+
+
+
+![image](https://github.com/user-attachments/assets/9a6f3ecc-f272-4e8e-b87a-e33e2f9f4335)
+
 
 
 
